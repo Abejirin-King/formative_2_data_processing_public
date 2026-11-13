@@ -1,0 +1,13 @@
+participant_id,expression,path
+participant_01,neutral,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Ella\neutral\neutral.jpg
+participant_01,smiling,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Ella\smiling\smiling.jpg
+participant_01,surprised,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Ella\surprised\surprised.jpg
+participant_02,neutral,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\King\neutral\neutral.jpg
+participant_02,smiling,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\King\smiling\smiling.jpg
+participant_02,surprised,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\King\surprised\surprised.jpg
+participant_03,neutral,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Nicole\neutral\neutral.jpg
+participant_03,smiling,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Nicole\smiling\smiling.jpg
+participant_03,surprised,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Nicole\surprised\surprised.jpg
+participant_04,neutral,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Sarah\neutral\neutral.jpg
+participant_04,smiling,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Sarah\smiling\smiling.jpg
+participant_04,surprised,c:\Users\a\Documents\formative_2_data_processing_personal\data\images\raw\Sarah\surprised\surprise.jpg
