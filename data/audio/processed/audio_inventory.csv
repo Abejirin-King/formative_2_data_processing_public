@@ -1,0 +1,9 @@
+participant_id,phrase,path
+participant_01,confirm_transaction,c:\Users\a\Documents\formative_2_data_processing_personal\data\audio\raw\Ella\confirm_transaction\confirm_transaction.wav
+participant_01,yes_approve,c:\Users\a\Documents\formative_2_data_processing_personal\data\audio\raw\Ella\yes_approve\yes_approve.wav
+participant_02,confirm_transaction,c:\Users\a\Documents\formative_2_data_processing_personal\data\audio\raw\King\confirm_transaction\confirm_transaction.wav
+participant_02,yes_approve,c:\Users\a\Documents\formative_2_data_processing_personal\data\audio\raw\King\yes_approve\yes_approve.wav
+participant_03,confirm_transaction,c:\Users\a\Documents\formative_2_data_processing_personal\data\audio\raw\Nicole\confirm_transaction\confirm_transaction.wav
+participant_03,yes_approve,c:\Users\a\Documents\formative_2_data_processing_personal\data\audio\raw\Nicole\yes_approve\yes_approve.wav
+participant_04,confirm_transaction,c:\Users\a\Documents\formative_2_data_processing_personal\data\audio\raw\Sarah\confirm_transaction\confirm_transaction.wav
+participant_04,yes_approve,c:\Users\a\Documents\formative_2_data_processing_personal\data\audio\raw\Sarah\yes_approve\yes_approve.wav
